@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">FoodyClone</string>
+    <string name="phienban">Phiên bản</string>
+    <string name="dangtai">Đang tải...</string>
+    <string name="ten_cong_ty">Manh Tran Corp</string>
+    <string name="email">Email</string>
+    <string name="matkhau">Mật khẩu</string>
+    <string name="dangnhap">Đăng nhập</string>
+    <string name="hoac">Hoặc</string>
+    <string name="facebook_app_id">177256316234193</string>
+    <string name="dangnhapfacebook">Đăng nhập bằng Facebook</string>
+    <string name="dangnhapgoogle">Đăng nhập bằng Google</string>
 </resources>
